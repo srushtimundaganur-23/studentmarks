@@ -10,3 +10,9 @@ print("\n --- Student Mark DDetails ---")
 print("Student Name:",name)
 print("Total Marks:",total)
 print("Average Marks:",average)
+
+if m1 >= 35 and m2 >= 35 and m3 >= 35:
+    print("Result: PASS")
+else:
+    print("Result: FAIL")
+    
